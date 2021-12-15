@@ -1,0 +1,5 @@
+@media only Screen and (min-width: 37.5em) {
+    #cityOrPostal2{
+        display: inline;
+    }
+}
